@@ -1,0 +1,70 @@
+.container-detail {
+  margin-top: 0.5in;
+  font-size: 16px;
+  line-height: 0.5cm;
+  text-indent: 2cm;
+  resize: none;
+}
+
+.profileus p1 {
+  font-size: 20;
+  font-weight: bold;
+  color: #7fa4c7;
+}
+
+.inforus {
+    font-size: 20;
+    margin-top: 1cm;
+  }
+
+  .symtoms{
+    margin-top: 0.5in;
+      font-weight: bold;
+      text-align: left;
+      
+  }
+
+  .dt-flex{
+    display: flex;
+  }
+  .symtoms textarea{
+    line-height: 0.5cm;
+    width: 90%;
+    height: 5%;
+    padding: 12px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #7fa4c7;
+    border-radius: 10px;
+    box-sizing: border-box;
+
+  }
+
+
+  .btn-add-medicine {
+    background-color: #577eab;
+    font-size: 18;
+    border-radius: 4px;
+    width: 90px;
+    color: white;
+    margin-top: 0.3in;
+    margin-left: 1in;
+    caret-color: #577eab;
+  }
+
+  .button-bt{
+    text-align: center;
+  }
+
+  .btn-scsm{
+    background-color: #577eab;
+    font-size: 18;
+    border-radius: 4px;
+    width: 90px;
+    color: white;
+    margin-top: 0.5in;
+    margin-left: 0.5in;
+    margin-bottom: 1in;
+  }

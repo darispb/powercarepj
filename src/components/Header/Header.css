@@ -1,0 +1,80 @@
+.Header {
+  background-color: #a5c3df;
+  height: 80px;
+  font-size: 18px;
+  padding: 30px;
+
+}
+
+.PowercareD {
+  margin-top: 10px;
+  width: 100px;
+  margin-left: 10px;
+  margin-right: 20px;
+  
+}
+
+.container-head {
+  max-width: 960px;
+  margin: 0 auto;
+  position:fixed;
+}
+
+.header-con {
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+  align-items: center;
+  position:fixed
+}
+
+.left_area h3{
+  margin: 0;
+  font-size: 22px;
+  font-weight: 800;
+  
+
+}
+
+.left_area span{
+  color: white;
+}
+
+.right_area{
+  text-decoration: none;
+  display: fixed;
+}
+
+.logout_btn{
+  padding: 5px;
+  text-decoration: none;
+  float: right;
+  margin-top: -30px;
+  margin-right: 40px;
+  border-radius: 3px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+}
+
+.logout_btn i {
+  margin-right: 5px;
+}
+
+.menu{
+    display: flex;
+    list-style-type: none;
+}
+
+.menu li {
+    padding-right: 2rem;
+}
+
+.menu li a {
+    text-decoration: none;
+    color : black;
+}
+
+
+
+

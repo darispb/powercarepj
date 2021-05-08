@@ -1,0 +1,18 @@
+.App {
+  font-family: Poppins,'Mitr', sans-serif;
+  font-size: 18;
+  align-items: center;
+  /* display: flex;
+  width: 100vw;
+  min-height: 100vh; */
+
+}
+
+  
+:root {
+  --sidebar-flex: 1.5;
+  --condiv-flex: 6;
+  --fontsize-p: 1.2rem;
+  --fontsize-nav: 1.6rem;
+  --typing-font: 3rem;
+}
